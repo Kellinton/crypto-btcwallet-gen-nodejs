@@ -1,0 +1,7 @@
+# Arquivos gerados
+*.log
+*.tmp
+
+# Diretórios temporários
+node_modules/
+dist/
